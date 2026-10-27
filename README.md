@@ -1,6 +1,5 @@
 # Autonomous and Cooperative Multi-Robot Navigation Using Deep Reinforcement Learning
 
-**Project:** AUTRIS  
 **Domain:** Autonomous Robotics | Deep Reinforcement Learning | Multi-Agent Systems | Embedded Systems
 
 ## 1. Project Overview
