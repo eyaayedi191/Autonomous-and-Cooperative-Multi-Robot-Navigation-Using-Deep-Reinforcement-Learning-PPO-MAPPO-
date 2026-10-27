@@ -23,7 +23,7 @@ The physical robot was designed, assembled, and wired from scratch, including it
 
 <!-- Replace the image path with the actual image filename in your repository. -->
 
-![AUTRIS autonomous mobile robot](images/robot_platform.jpg)
+![autonomous mobile robot](images/robot_platform.png)
 
 *Figure 1. Physical mobile robot developed for autonomous navigation.*
 
