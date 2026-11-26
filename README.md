@@ -65,7 +65,7 @@ The policy was trained in simulation using LiDAR-based observations and odometry
 
 The following demonstrations present the robot's navigation behavior in the simulated environment.
 
-- [Simulation Test 01 — Autonomous Navigation](demo/ppo_simulation.mp4)
+- [Simulation Test 01 — Autonomous Navigation](demo/PPO-Simulation-Tests/ppotest1.mp4)
 
 ### PPO — Real Robot Tests
 
