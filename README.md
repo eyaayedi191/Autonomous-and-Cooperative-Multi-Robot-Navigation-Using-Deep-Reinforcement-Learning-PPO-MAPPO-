@@ -91,9 +91,9 @@ The approach uses centralized training with decentralized execution (CTDE), enab
 
 The following demonstrations present multi-robot navigation and coordination in simulation.
 
-- [MAPPO Simulation Test 01 — Cooperative Navigation](demo/mappo_multi_robot_simulation_01.mp4)
-- [MAPPO Simulation Test 02 — Multi-Robot Coordination](demo/mappo_multi_robot_simulation_02.mp4)
-- [MAPPO Simulation Test 03 — Additional Scenario](demo/mappo_multi_robot_simulation_03.mp4)
+- [MAPPO Simulation Test 01](demo/MAPPO-Simulation-Tests/mappotest1.mp4)
+- [MAPPO Simulation Test 02 ](demo/MAPPO-Simulation-Tests/mappotest2.mp4)
+- [MAPPO Simulation Test 03 ](demo/MAPPO-Simulation-Tests/mappotest3.mp4)
 
 **Scope:** MAPPO was evaluated in simulation. Physical multi-robot deployment was not included in the validated results.
 
