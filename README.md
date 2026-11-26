@@ -66,7 +66,7 @@ The policy was trained in simulation using LiDAR-based observations and odometry
 The following demonstrations present the robot's navigation behavior in the simulated environment.
 
 - [Simulation Test 01 — Autonomous Navigation](demo/PPO-Simulation-Tests/ppotest1.mp4)
-
+- [Simulation Test 02 — Autonomous Navigation](demo/PPO-Simulation-Tests/ppotest2.mp4)
 ### PPO — Real Robot Tests
 
 The trained PPO policy was evaluated on the physical robot to assess its ability to transfer learned navigation behavior from simulation to the real world.
@@ -75,7 +75,7 @@ The trained PPO policy was evaluated on the physical robot to assess its ability
 - [Real Robot Test 02](demo/ppo_real_robot_test_02.mp4)
 - [Real Robot Test 03](demo/ppo_real_robot_test_03.mp4)
 
-*Additional test videos can be added as further demonstrations of real-world performance.*
+
 
 ## 5. Cooperative Multi-Robot Navigation Using MAPPO
 
