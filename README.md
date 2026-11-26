@@ -97,31 +97,25 @@ The following demonstrations present multi-robot navigation and coordination in 
 
 **Scope:** MAPPO was evaluated in simulation. Physical multi-robot deployment was not included in the validated results.
 
+
 ## 6. Experimental Results
 
-| Experiment | Environment | Result |
-|---|---|---|
-| PPO autonomous navigation | Simulation | Evaluated through navigation trials |
-| PPO policy deployment | Physical robot | 90% navigation success rate |
-| MAPPO cooperative navigation | Multi-robot simulation | Evaluated through simulation trials |
+The experimental evaluation of PPO and MAPPO was conducted through simulation-based generalization tests and real-world robot experiments.
 
-The real-world results demonstrate the feasibility of transferring a simulation-trained PPO navigation policy to a physical mobile robot.
+| Experiment | Environment | Successful Trials | Success Rate |
+|---|---|---:|---:|
+| PPO autonomous navigation | Simulation | 17/20 | 85% |
+| PPO policy deployment | Physical robot | 7/10 | 70% |
+| MAPPO cooperative navigation | Multi-robot simulation | 15/20 | 75% |
 
-The MAPPO experiments provide a basis for studying cooperative navigation and multi-agent coordination in simulated environments.
+### Key Findings
 
-## 7. Project Demonstrations
+- **PPO – Simulation:** Achieved an 85% success rate, with the robot successfully reaching its goal in 17 out of 20 trials.
+- **PPO – Real Robot:** Achieved a 70% success rate, with 7 successful goal-reaching trials out of 10, demonstrating the feasibility of transferring a simulation-trained policy to a physical mobile robot.
+- **MAPPO – Multi-Robot Simulation:** Achieved a 75% success rate, with both robots successfully reaching their respective goals in 15 out of 20 trials.
 
-Explore the videos to observe the robot's behavior under different conditions:
+These results demonstrate the potential of Deep Reinforcement Learning for autonomous robot navigation, sim-to-real policy transfer, and cooperative multi-robot navigation.
 
-- **Physical Robot:** Hardware platform and real-world navigation.
-- **PPO:** Single-agent autonomous navigation in simulation and on the physical robot.
-- **MAPPO:** Cooperative multi-robot navigation in simulation.
-
-## 8. Repository Contents
-
-This public repository is intended as a project portfolio showcasing the system architecture, hardware implementation, and experimental demonstrations.
-
-The source code is not included.
 
 ---
   
